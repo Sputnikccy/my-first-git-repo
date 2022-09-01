@@ -2,5 +2,6 @@ body{
     background-color: lightblue;
 }
 h1{
-    color:pink
+    color:pink;
+    font-size: 10px;
 }
